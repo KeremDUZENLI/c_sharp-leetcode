@@ -1,0 +1,6 @@
+C:\Users\QUERO2\Desktop\LeetCode\1_TwoSum\bin\Debug\1_TwoSum.dll
+C:\Users\QUERO2\Desktop\LeetCode\1_TwoSum\bin\Debug\1_TwoSum.pdb
+C:\Users\QUERO2\Desktop\LeetCode\1_TwoSum\obj\Debug\1_TwoSum.csproj.AssemblyReference.cache
+C:\Users\QUERO2\Desktop\LeetCode\1_TwoSum\obj\Debug\1_TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\QUERO2\Desktop\LeetCode\1_TwoSum\obj\Debug\1_TwoSum.dll
+C:\Users\QUERO2\Desktop\LeetCode\1_TwoSum\obj\Debug\1_TwoSum.pdb
