@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _1_TwoSum
 {
-    public class Solution
+    public class SolutionTwoSum
     {
         public int[] TwoSum(int[] nums, int target)
         {
@@ -21,7 +21,7 @@ namespace _1_TwoSum
                 }
             }
 
-            return new int[0];
+            return new int[] { };
         }
     }
 }

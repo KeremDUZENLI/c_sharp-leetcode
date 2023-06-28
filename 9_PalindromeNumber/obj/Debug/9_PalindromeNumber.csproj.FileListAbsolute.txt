@@ -1,0 +1,6 @@
+D:\GITHUB\c_sharp-leetcode\9_PalindromeNumber\bin\Debug\9_PalindromeNumber.dll
+D:\GITHUB\c_sharp-leetcode\9_PalindromeNumber\bin\Debug\9_PalindromeNumber.pdb
+D:\GITHUB\c_sharp-leetcode\9_PalindromeNumber\obj\Debug\9_PalindromeNumber.csproj.AssemblyReference.cache
+D:\GITHUB\c_sharp-leetcode\9_PalindromeNumber\obj\Debug\9_PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\GITHUB\c_sharp-leetcode\9_PalindromeNumber\obj\Debug\9_PalindromeNumber.dll
+D:\GITHUB\c_sharp-leetcode\9_PalindromeNumber\obj\Debug\9_PalindromeNumber.pdb

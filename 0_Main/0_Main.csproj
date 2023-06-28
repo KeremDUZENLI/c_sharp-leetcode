@@ -50,9 +50,21 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\13_RomanToInteger\13_RomanToInteger.csproj">
+      <Project>{8479BFF8-8D78-4098-B89F-D58275C77698}</Project>
+      <Name>13_RomanToInteger</Name>
+    </ProjectReference>
     <ProjectReference Include="..\1_TwoSum\1_TwoSum.csproj">
       <Project>{0FAD7465-0086-4924-918A-17C39E3E7F6C}</Project>
       <Name>1_TwoSum</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\2_AddTwoNumbers\2_AddTwoNumbers.csproj">
+      <Project>{D3C5DC5D-FE45-41A4-84CD-1B261D2FCC82}</Project>
+      <Name>2_AddTwoNumbers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\9_PalindromeNumber\9_PalindromeNumber.csproj">
+      <Project>{79717A98-50E6-42C7-9BE1-564D6E5108E9}</Project>
+      <Name>9_PalindromeNumber</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,6 @@
+D:\GITHUB\c_sharp-leetcode\13_RomanToInteger\bin\Debug\13_RomanToInteger.dll
+D:\GITHUB\c_sharp-leetcode\13_RomanToInteger\bin\Debug\13_RomanToInteger.pdb
+D:\GITHUB\c_sharp-leetcode\13_RomanToInteger\obj\Debug\13_RomanToInteger.csproj.AssemblyReference.cache
+D:\GITHUB\c_sharp-leetcode\13_RomanToInteger\obj\Debug\13_RomanToInteger.csproj.CoreCompileInputs.cache
+D:\GITHUB\c_sharp-leetcode\13_RomanToInteger\obj\Debug\13_RomanToInteger.dll
+D:\GITHUB\c_sharp-leetcode\13_RomanToInteger\obj\Debug\13_RomanToInteger.pdb
