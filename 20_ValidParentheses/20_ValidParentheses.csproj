@@ -4,17 +4,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FC696EEA-E016-46A7-978F-1FE3045FDF19}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>_0_Main</RootNamespace>
-    <AssemblyName>0_Main</AssemblyName>
+    <ProjectGuid>{431636C4-D566-4197-86C1-E848BE9A5E4A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>_20_ValidParentheses</RootNamespace>
+    <AssemblyName>20_ValidParentheses</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -24,7 +23,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -43,40 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="SolutionValidParentheses.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\0_Xtra\0_Xtra.csproj">
       <Project>{F774DDB4-60FF-4F37-89A2-1E5DCF4CE08D}</Project>
       <Name>0_Xtra</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\13_RomanToInteger\13_RomanToInteger.csproj">
-      <Project>{8479BFF8-8D78-4098-B89F-D58275C77698}</Project>
-      <Name>13_RomanToInteger</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\14_LongestCommonPrefix\14_LongestCommonPrefix.csproj">
-      <Project>{2B7DEBAF-3A1C-4A34-AE1D-7F0DFEFD03BF}</Project>
-      <Name>14_LongestCommonPrefix</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\1_TwoSum\1_TwoSum.csproj">
-      <Project>{0FAD7465-0086-4924-918A-17C39E3E7F6C}</Project>
-      <Name>1_TwoSum</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\20_ValidParentheses\20_ValidParentheses.csproj">
-      <Project>{431636C4-D566-4197-86C1-E848BE9A5E4A}</Project>
-      <Name>20_ValidParentheses</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\2_AddTwoNumbers\2_AddTwoNumbers.csproj">
-      <Project>{D3C5DC5D-FE45-41A4-84CD-1B261D2FCC82}</Project>
-      <Name>2_AddTwoNumbers</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\9_PalindromeNumber\9_PalindromeNumber.csproj">
-      <Project>{79717A98-50E6-42C7-9BE1-564D6E5108E9}</Project>
-      <Name>9_PalindromeNumber</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

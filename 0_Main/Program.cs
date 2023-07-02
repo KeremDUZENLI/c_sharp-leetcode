@@ -1,6 +1,9 @@
-﻿using _1_TwoSum;
+﻿using _0_Xtra;
+using _1_TwoSum;
 using _13_RomanToInteger;
+using _14_LongestCommonPrefix;
 using _2_AddTwoNumbers;
+using _20_ValidParentheses;
 using _9_PalindromeNumber;
 using System;
 using System.Collections.Generic;
@@ -12,6 +15,7 @@ namespace _0_Main
 {
     class Program
     {
+
         static void Main(string[] args)
         {
             Functions();
@@ -25,26 +29,12 @@ namespace _0_Main
                 Solution1,
                 Solution2,
                 Solution9,
-                Solution13
+                Solution13,
+                Solution14,
+                Solution20
             };
 
-            WriteLine(functionsList);
-        }
-
-        private static void WriteLine(List<Action> functionsList)
-        {
-            foreach (Action function in functionsList)
-            {
-                Console.WriteLine($"\n{function.Method.Name}:");
-                function();
-            }
-        }
-
-        private static void WriteLineList<T>(IEnumerable<T> liste)
-        {
-            string result = "[" + string.Join(", ", liste) + "]";
-
-            Console.WriteLine(result);
+            Solution.WriteLine(functionsList);
         }
 
         ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -54,7 +44,7 @@ namespace _0_Main
             SolutionTwoSum solution1 = new SolutionTwoSum();
 
             int[] liste = solution1.TwoSum(new int[] { 3, 2, 4 }, 6);
-            WriteLineList(liste);
+            Solution.WriteLineList(liste);
         }
 
         private static void Solution2()
@@ -85,7 +75,6 @@ namespace _0_Main
             SolutionPalindromeNumber solutionPalindromeNumber = new SolutionPalindromeNumber();
 
             bool result = solutionPalindromeNumber.IsPalindrome(-52225);
-
             Console.WriteLine(result);
         }
 
@@ -94,6 +83,22 @@ namespace _0_Main
             SolutionRomanToInteger solutionRomanToInteger = new SolutionRomanToInteger();
 
             int result = solutionRomanToInteger.RomanToInt("MCMXCIV");
+            Console.WriteLine(result);
+        }
+
+        private static void Solution14()
+        {
+            SolutionLongestCommonPrefix solutionLongestCommonPrefix = new SolutionLongestCommonPrefix();
+
+            string result = solutionLongestCommonPrefix.LongestCommonPrefix(new string[] { "flower", "flow", "flight" });
+            Console.WriteLine(result);
+        }
+
+        private static void Solution20()
+        {
+            SolutionValidParentheses solutionValidParentheses = new SolutionValidParentheses();
+
+            bool result = solutionValidParentheses.IsValid("()[]{}");
             Console.WriteLine(result);
         }
     }

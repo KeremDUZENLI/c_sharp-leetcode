@@ -1,0 +1,9 @@
+D:\GITHUB\c_sharp-leetcode\20_ValidParentheses\bin\Debug\20_ValidParentheses.dll
+D:\GITHUB\c_sharp-leetcode\20_ValidParentheses\bin\Debug\20_ValidParentheses.pdb
+D:\GITHUB\c_sharp-leetcode\20_ValidParentheses\obj\Debug\20_ValidParentheses.csproj.AssemblyReference.cache
+D:\GITHUB\c_sharp-leetcode\20_ValidParentheses\obj\Debug\20_ValidParentheses.csproj.CoreCompileInputs.cache
+D:\GITHUB\c_sharp-leetcode\20_ValidParentheses\obj\Debug\20_ValidParentheses.dll
+D:\GITHUB\c_sharp-leetcode\20_ValidParentheses\obj\Debug\20_ValidParentheses.pdb
+D:\GITHUB\c_sharp-leetcode\20_ValidParentheses\bin\Debug\0_Xtra.dll
+D:\GITHUB\c_sharp-leetcode\20_ValidParentheses\bin\Debug\0_Xtra.pdb
+D:\GITHUB\c_sharp-leetcode\20_ValidParentheses\obj\Debug\20_ValidParentheses.csproj.CopyComplete
