@@ -70,6 +70,10 @@
       <Project>{431636C4-D566-4197-86C1-E848BE9A5E4A}</Project>
       <Name>20_ValidParentheses</Name>
     </ProjectReference>
+    <ProjectReference Include="..\21_MergeTwoSortedLists\21_MergeTwoSortedLists.csproj">
+      <Project>{76D4A997-6AEB-4E27-9198-F3E149FD796C}</Project>
+      <Name>21_MergeTwoSortedLists</Name>
+    </ProjectReference>
     <ProjectReference Include="..\2_AddTwoNumbers\2_AddTwoNumbers.csproj">
       <Project>{D3C5DC5D-FE45-41A4-84CD-1B261D2FCC82}</Project>
       <Name>2_AddTwoNumbers</Name>

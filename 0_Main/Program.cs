@@ -4,6 +4,7 @@ using _13_RomanToInteger;
 using _14_LongestCommonPrefix;
 using _2_AddTwoNumbers;
 using _20_ValidParentheses;
+using _21_MergeTwoSortedLists;
 using _9_PalindromeNumber;
 using System;
 using System.Collections.Generic;
@@ -31,7 +32,8 @@ namespace _0_Main
                 Solution9,
                 Solution13,
                 Solution14,
-                Solution20
+                Solution20,
+                Solution21
             };
 
             Solution.WriteLine(functionsList);
@@ -100,6 +102,29 @@ namespace _0_Main
 
             bool result = solutionValidParentheses.IsValid("()[]{}");
             Console.WriteLine(result);
+        }
+
+        private static void Solution21()
+        {
+            SolutionMergeTwoSortedLists.ListNode liste1 = new SolutionMergeTwoSortedLists.ListNode();
+            liste1.val = 1;
+            liste1.next = new SolutionMergeTwoSortedLists.ListNode(2);
+            liste1.next.next = new SolutionMergeTwoSortedLists.ListNode(4);
+
+            SolutionMergeTwoSortedLists.ListNode liste2 = new SolutionMergeTwoSortedLists.ListNode();
+            liste2.val = 1;
+            liste2.next = new SolutionMergeTwoSortedLists.ListNode(3);
+            liste2.next.next = new SolutionMergeTwoSortedLists.ListNode(4);
+
+
+            SolutionMergeTwoSortedLists solutionMergeTwoSortedLists = new SolutionMergeTwoSortedLists();
+            SolutionMergeTwoSortedLists.ListNode result = solutionMergeTwoSortedLists.MergeTwoLists(liste1, liste2);
+
+            while (result != null)
+            {
+                Console.WriteLine(result.val);
+                result = result.next;
+            }
         }
     }
 }
