@@ -1,0 +1,6 @@
+D:\GITHUB\c_sharp-leetcode\27_RemoveElement\bin\Debug\27_RemoveElement.dll
+D:\GITHUB\c_sharp-leetcode\27_RemoveElement\bin\Debug\27_RemoveElement.pdb
+D:\GITHUB\c_sharp-leetcode\27_RemoveElement\obj\Debug\27_RemoveElement.csproj.AssemblyReference.cache
+D:\GITHUB\c_sharp-leetcode\27_RemoveElement\obj\Debug\27_RemoveElement.csproj.CoreCompileInputs.cache
+D:\GITHUB\c_sharp-leetcode\27_RemoveElement\obj\Debug\27_RemoveElement.dll
+D:\GITHUB\c_sharp-leetcode\27_RemoveElement\obj\Debug\27_RemoveElement.pdb

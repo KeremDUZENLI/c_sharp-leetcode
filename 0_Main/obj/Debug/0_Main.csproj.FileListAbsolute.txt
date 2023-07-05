@@ -32,3 +32,9 @@ D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\20_ValidParentheses.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\20_ValidParentheses.pdb
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\21_MergeTwoSortedLists.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\21_MergeTwoSortedLists.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\26_RemoveDuplicatesFromSortedArray.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\26_RemoveDuplicatesFromSortedArray.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\27_RemoveElement.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\27_RemoveElement.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\28_FindTheIndexOfTheFirstOccurrenceInAString.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\28_FindTheIndexOfTheFirstOccurrenceInAString.pdb

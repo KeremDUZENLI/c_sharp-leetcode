@@ -74,6 +74,18 @@
       <Project>{76D4A997-6AEB-4E27-9198-F3E149FD796C}</Project>
       <Name>21_MergeTwoSortedLists</Name>
     </ProjectReference>
+    <ProjectReference Include="..\26_RemoveDuplicatesFromSortedArray\26_RemoveDuplicatesFromSortedArray.csproj">
+      <Project>{F12D7DC7-56CC-4F77-8E1C-28D053867596}</Project>
+      <Name>26_RemoveDuplicatesFromSortedArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\27_RemoveElement\27_RemoveElement.csproj">
+      <Project>{F682C432-23FA-4900-9A69-24838C9E00B7}</Project>
+      <Name>27_RemoveElement</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\28_FindTheIndexOfTheFirstOccurrenceInAString\28_FindTheIndexOfTheFirstOccurrenceInAString.csproj">
+      <Project>{60E81E58-1E51-4A89-8318-4D5334BE5086}</Project>
+      <Name>28_FindTheIndexOfTheFirstOccurrenceInAString</Name>
+    </ProjectReference>
     <ProjectReference Include="..\2_AddTwoNumbers\2_AddTwoNumbers.csproj">
       <Project>{D3C5DC5D-FE45-41A4-84CD-1B261D2FCC82}</Project>
       <Name>2_AddTwoNumbers</Name>

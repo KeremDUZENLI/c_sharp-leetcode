@@ -5,6 +5,9 @@ using _14_LongestCommonPrefix;
 using _2_AddTwoNumbers;
 using _20_ValidParentheses;
 using _21_MergeTwoSortedLists;
+using _26_RemoveDuplicatesFromSortedArray;
+using _27_RemoveElement;
+using _28_FindTheIndexOfTheFirstOccurrenceInAString;
 using _9_PalindromeNumber;
 using System;
 using System.Collections.Generic;
@@ -33,7 +36,10 @@ namespace _0_Main
                 Solution13,
                 Solution14,
                 Solution20,
-                Solution21
+                Solution21,
+                Solution26,
+                Solution27,
+                Solution28
             };
 
             Solution.WriteLine(functionsList);
@@ -122,9 +128,35 @@ namespace _0_Main
 
             while (result != null)
             {
-                Console.WriteLine(result.val);
+                Console.Write(result.val + " ");
                 result = result.next;
             }
+
+            Console.WriteLine();
+        }
+
+        private static void Solution26()
+        {
+            SolutionRemoveDuplicatesFromSortedArray solutionRemoveDuplicatesFromSortedArray = new SolutionRemoveDuplicatesFromSortedArray();
+
+            List<int> result = solutionRemoveDuplicatesFromSortedArray.RemoveDuplicates(new int[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 });
+            Solution.WriteLineList(result);
+        }
+
+        private static void Solution27()
+        {
+            SolutionRemoveElement solutionRemoveElement = new SolutionRemoveElement();
+
+            int[] result = solutionRemoveElement.RemoveElement(new int[] { 0, 1, 2, 2, 3, 0, 4, 2 }, 0);
+            Solution.WriteLineList(result);
+        }
+
+        private static void Solution28()
+        {
+            SolutionFindTheIndexOfTheFirstOccurrenceInAString solutionFindTheIndexOfTheFirstOccurrenceInAString = new SolutionFindTheIndexOfTheFirstOccurrenceInAString();
+
+            List<char> result = solutionFindTheIndexOfTheFirstOccurrenceInAString.StrStr("leetcode", "etco");
+            Solution.WriteLineList(result);
         }
     }
 }
