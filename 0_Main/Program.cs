@@ -184,17 +184,20 @@ namespace _0_Main
         private static void Solution209()
         {
             SolutionMinimumSizeSubarraySum solutionMinimumSizeSubarraySum = new SolutionMinimumSizeSubarraySum();
+            int result = solutionMinimumSizeSubarraySum.MinSubArrayLen(214, new List<int> { 12, 28, 83, 4, 25, 26, 25, 2, 25, 25, 25, 12 });
+            Console.WriteLine(result);
+        }
 
-            //int result1 = solutionMinimumSizeSubarraySum.MinSubArrayLen(7, new int[] { 1, 2, 3, 4, 5 });
-            //Console.WriteLine(result1);
+        private static void Solution209_2()
+        {
+            SolutionMinimumSizeSubarraySum solutionMinimumSizeSubarraySum = new SolutionMinimumSizeSubarraySum();
 
-            List<int> subListe = new List<int>();
-            List<List<int>> newListe = new List<List<int>>();
+            List<int> listeSub = new List<int>();
+            List<List<int>> listeNew = new List<List<int>>();
+            solutionMinimumSizeSubarraySum.ListCreate(new List<int> { 1, 2, 3, 4, 5 }, listeSub, 0, 5, listeNew);
+            listeNew.Sort(new ListCountComparer());
 
-            solutionMinimumSizeSubarraySum.ListCreate(new List<int> { 1, 2, 3, 4, 5 }, subListe, 0, 4, newListe);
-            newListe.Sort(new ListCountComparer());
-
-            foreach (List<int> x in newListe)
+            foreach (List<int> x in listeNew)
             {
                 Solution.WriteLineList(x);
             }
