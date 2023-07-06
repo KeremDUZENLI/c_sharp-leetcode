@@ -1,0 +1,9 @@
+D:\GITHUB\c_sharp-leetcode\58_LengthOfLastWord\bin\Debug\58_LengthOfLastWord.dll
+D:\GITHUB\c_sharp-leetcode\58_LengthOfLastWord\bin\Debug\58_LengthOfLastWord.pdb
+D:\GITHUB\c_sharp-leetcode\58_LengthOfLastWord\obj\Debug\58_LengthOfLastWord.csproj.CoreCompileInputs.cache
+D:\GITHUB\c_sharp-leetcode\58_LengthOfLastWord\obj\Debug\58_LengthOfLastWord.dll
+D:\GITHUB\c_sharp-leetcode\58_LengthOfLastWord\obj\Debug\58_LengthOfLastWord.pdb
+D:\GITHUB\c_sharp-leetcode\58_LengthOfLastWord\bin\Debug\0_Xtra.dll
+D:\GITHUB\c_sharp-leetcode\58_LengthOfLastWord\bin\Debug\0_Xtra.pdb
+D:\GITHUB\c_sharp-leetcode\58_LengthOfLastWord\obj\Debug\58_LengthOfLastWord.csproj.CopyComplete
+D:\GITHUB\c_sharp-leetcode\58_LengthOfLastWord\obj\Debug\58_LengthOfLastWord.csproj.AssemblyReference.cache

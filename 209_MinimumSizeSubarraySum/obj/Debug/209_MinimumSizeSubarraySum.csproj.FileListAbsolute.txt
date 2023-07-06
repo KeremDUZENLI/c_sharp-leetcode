@@ -1,0 +1,9 @@
+D:\GITHUB\c_sharp-leetcode\209_MinimumSizeSubarraySum\bin\Debug\209_MinimumSizeSubarraySum.dll
+D:\GITHUB\c_sharp-leetcode\209_MinimumSizeSubarraySum\bin\Debug\209_MinimumSizeSubarraySum.pdb
+D:\GITHUB\c_sharp-leetcode\209_MinimumSizeSubarraySum\obj\Debug\209_MinimumSizeSubarraySum.csproj.AssemblyReference.cache
+D:\GITHUB\c_sharp-leetcode\209_MinimumSizeSubarraySum\obj\Debug\209_MinimumSizeSubarraySum.csproj.CoreCompileInputs.cache
+D:\GITHUB\c_sharp-leetcode\209_MinimumSizeSubarraySum\obj\Debug\209_MinimumSizeSubarraySum.dll
+D:\GITHUB\c_sharp-leetcode\209_MinimumSizeSubarraySum\obj\Debug\209_MinimumSizeSubarraySum.pdb
+D:\GITHUB\c_sharp-leetcode\209_MinimumSizeSubarraySum\bin\Debug\0_Xtra.dll
+D:\GITHUB\c_sharp-leetcode\209_MinimumSizeSubarraySum\bin\Debug\0_Xtra.pdb
+D:\GITHUB\c_sharp-leetcode\209_MinimumSizeSubarraySum\obj\Debug\209_MinimumSizeSubarraySum.csproj.CopyComplete

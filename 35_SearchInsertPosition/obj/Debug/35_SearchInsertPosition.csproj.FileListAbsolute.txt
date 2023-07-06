@@ -1,0 +1,9 @@
+D:\GITHUB\c_sharp-leetcode\35_SearchInsertPosition\bin\Debug\35_SearchInsertPosition.dll
+D:\GITHUB\c_sharp-leetcode\35_SearchInsertPosition\bin\Debug\35_SearchInsertPosition.pdb
+D:\GITHUB\c_sharp-leetcode\35_SearchInsertPosition\obj\Debug\35_SearchInsertPosition.csproj.AssemblyReference.cache
+D:\GITHUB\c_sharp-leetcode\35_SearchInsertPosition\obj\Debug\35_SearchInsertPosition.csproj.CoreCompileInputs.cache
+D:\GITHUB\c_sharp-leetcode\35_SearchInsertPosition\obj\Debug\35_SearchInsertPosition.dll
+D:\GITHUB\c_sharp-leetcode\35_SearchInsertPosition\obj\Debug\35_SearchInsertPosition.pdb
+D:\GITHUB\c_sharp-leetcode\35_SearchInsertPosition\bin\Debug\0_Xtra.dll
+D:\GITHUB\c_sharp-leetcode\35_SearchInsertPosition\bin\Debug\0_Xtra.pdb
+D:\GITHUB\c_sharp-leetcode\35_SearchInsertPosition\obj\Debug\35_SearchInsertPosition.csproj.CopyComplete

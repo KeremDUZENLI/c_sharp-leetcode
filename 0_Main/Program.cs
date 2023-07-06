@@ -4,10 +4,13 @@ using _13_RomanToInteger;
 using _14_LongestCommonPrefix;
 using _2_AddTwoNumbers;
 using _20_ValidParentheses;
+using _209_MinimumSizeSubarraySum;
 using _21_MergeTwoSortedLists;
 using _26_RemoveDuplicatesFromSortedArray;
 using _27_RemoveElement;
 using _28_FindTheIndexOfTheFirstOccurrenceInAString;
+using _35_SearchInsertPosition;
+using _58_LengthOfLastWord;
 using _9_PalindromeNumber;
 using System;
 using System.Collections.Generic;
@@ -39,7 +42,10 @@ namespace _0_Main
                 Solution21,
                 Solution26,
                 Solution27,
-                Solution28
+                Solution28,
+                Solution35,
+                Solution58,
+                Solution209
             };
 
             Solution.WriteLine(functionsList);
@@ -157,6 +163,41 @@ namespace _0_Main
 
             List<char> result = solutionFindTheIndexOfTheFirstOccurrenceInAString.StrStr("leetcode", "etco");
             Solution.WriteLineList(result);
+        }
+
+        private static void Solution35()
+        {
+            SolutionSearchInsertPosition solutionSearchInsertPosition = new SolutionSearchInsertPosition();
+
+            int result = solutionSearchInsertPosition.SearchInsert(new int[] { 1 }, 0);
+            Console.WriteLine(result);
+        }
+
+        private static void Solution58()
+        {
+            SolutionLengthOfLastWord solutionLengthOfLastWord = new SolutionLengthOfLastWord();
+
+            int result = solutionLengthOfLastWord.LengthOfLastWord("   fly me   to   the moon  ");
+            Console.WriteLine(result);
+        }
+
+        private static void Solution209()
+        {
+            SolutionMinimumSizeSubarraySum solutionMinimumSizeSubarraySum = new SolutionMinimumSizeSubarraySum();
+
+            //int result1 = solutionMinimumSizeSubarraySum.MinSubArrayLen(7, new int[] { 1, 2, 3, 4, 5 });
+            //Console.WriteLine(result1);
+
+            List<int> subListe = new List<int>();
+            List<List<int>> newListe = new List<List<int>>();
+
+            solutionMinimumSizeSubarraySum.ListCreate(new List<int> { 1, 2, 3, 4, 5 }, subListe, 0, 4, newListe);
+            newListe.Sort(new ListCountComparer());
+
+            foreach (List<int> x in newListe)
+            {
+                Solution.WriteLineList(x);
+            }
         }
     }
 }

@@ -66,6 +66,10 @@
       <Project>{0FAD7465-0086-4924-918A-17C39E3E7F6C}</Project>
       <Name>1_TwoSum</Name>
     </ProjectReference>
+    <ProjectReference Include="..\209_MinimumSizeSubarraySum\209_MinimumSizeSubarraySum.csproj">
+      <Project>{D18B5904-76A9-4BCE-8EF1-CD030AE26960}</Project>
+      <Name>209_MinimumSizeSubarraySum</Name>
+    </ProjectReference>
     <ProjectReference Include="..\20_ValidParentheses\20_ValidParentheses.csproj">
       <Project>{431636C4-D566-4197-86C1-E848BE9A5E4A}</Project>
       <Name>20_ValidParentheses</Name>
@@ -89,6 +93,14 @@
     <ProjectReference Include="..\2_AddTwoNumbers\2_AddTwoNumbers.csproj">
       <Project>{D3C5DC5D-FE45-41A4-84CD-1B261D2FCC82}</Project>
       <Name>2_AddTwoNumbers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\35_SearchInsertPosition\35_SearchInsertPosition.csproj">
+      <Project>{8410D19D-1964-44B8-B469-B7C5E0744970}</Project>
+      <Name>35_SearchInsertPosition</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\58_LengthOfLastWord\58_LengthOfLastWord.csproj">
+      <Project>{AE506AE3-83DE-49A9-ACA0-7D23BB54B3A7}</Project>
+      <Name>58_LengthOfLastWord</Name>
     </ProjectReference>
     <ProjectReference Include="..\9_PalindromeNumber\9_PalindromeNumber.csproj">
       <Project>{79717A98-50E6-42C7-9BE1-564D6E5108E9}</Project>
