@@ -8,7 +8,7 @@ namespace _0_Xtra
 {
     public static class Solution
     {
-        public static void WriteLine(List<Action> functionsList)
+        public static void WriteLineFunctions(List<Action> functionsList)
         {
             foreach (Action function in functionsList)
             {
@@ -17,7 +17,7 @@ namespace _0_Xtra
             }
         }
 
-        public static void WriteLineList<T>(IEnumerable<T> liste)
+        public static void WriteLine<T>(IEnumerable<T> liste)
         {
             string result = "[" + string.Join(", ", liste) + "]";
 

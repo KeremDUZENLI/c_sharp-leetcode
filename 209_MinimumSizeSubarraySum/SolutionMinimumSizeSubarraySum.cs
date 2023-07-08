@@ -21,7 +21,7 @@ namespace _209_MinimumSizeSubarraySum
             {
                 if (Total(x) > target)
                 {
-                    Solution.WriteLineList(x);
+                    Solution.WriteLine(x);
                     Console.WriteLine("{0} Total --- {1} Target", Total(x), target);
                     return x.Count;
                 } 

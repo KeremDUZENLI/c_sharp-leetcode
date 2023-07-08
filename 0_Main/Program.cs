@@ -11,6 +11,7 @@ using _27_RemoveElement;
 using _28_FindTheIndexOfTheFirstOccurrenceInAString;
 using _35_SearchInsertPosition;
 using _58_LengthOfLastWord;
+using _66_PlusOne;
 using _9_PalindromeNumber;
 using System;
 using System.Collections.Generic;
@@ -45,10 +46,11 @@ namespace _0_Main
                 Solution28,
                 Solution35,
                 Solution58,
+                Solution66,
                 Solution209
             };
 
-            Solution.WriteLine(functionsList);
+            Solution.WriteLineFunctions(functionsList);
         }
 
         ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -58,7 +60,7 @@ namespace _0_Main
             SolutionTwoSum solution1 = new SolutionTwoSum();
 
             int[] liste = solution1.TwoSum(new int[] { 3, 2, 4 }, 6);
-            Solution.WriteLineList(liste);
+            Solution.WriteLine(liste);
         }
 
         private static void Solution2()
@@ -146,7 +148,7 @@ namespace _0_Main
             SolutionRemoveDuplicatesFromSortedArray solutionRemoveDuplicatesFromSortedArray = new SolutionRemoveDuplicatesFromSortedArray();
 
             List<int> result = solutionRemoveDuplicatesFromSortedArray.RemoveDuplicates(new int[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 });
-            Solution.WriteLineList(result);
+            Solution.WriteLine(result);
         }
 
         private static void Solution27()
@@ -154,7 +156,7 @@ namespace _0_Main
             SolutionRemoveElement solutionRemoveElement = new SolutionRemoveElement();
 
             int[] result = solutionRemoveElement.RemoveElement(new int[] { 0, 1, 2, 2, 3, 0, 4, 2 }, 0);
-            Solution.WriteLineList(result);
+            Solution.WriteLine(result);
         }
 
         private static void Solution28()
@@ -162,7 +164,7 @@ namespace _0_Main
             SolutionFindTheIndexOfTheFirstOccurrenceInAString solutionFindTheIndexOfTheFirstOccurrenceInAString = new SolutionFindTheIndexOfTheFirstOccurrenceInAString();
 
             List<char> result = solutionFindTheIndexOfTheFirstOccurrenceInAString.StrStr("leetcode", "etco");
-            Solution.WriteLineList(result);
+            Solution.WriteLine(result);
         }
 
         private static void Solution35()
@@ -179,6 +181,14 @@ namespace _0_Main
 
             int result = solutionLengthOfLastWord.LengthOfLastWord("   fly me   to   the moon  ");
             Console.WriteLine(result);
+        }
+
+        private static void Solution66()
+        {
+            SolutionPlusOne solutionPlusOne = new SolutionPlusOne();
+
+            int[] result = solutionPlusOne.PlusOne(new int[] { 9, 9 });
+            Solution.WriteLine(result);
         }
 
         private static void Solution209()
@@ -199,7 +209,7 @@ namespace _0_Main
 
             foreach (List<int> x in listeNew)
             {
-                Solution.WriteLineList(x);
+                Solution.WriteLine(x);
             }
         }
     }
