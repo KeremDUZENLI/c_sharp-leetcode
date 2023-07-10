@@ -1,6 +1,19 @@
-﻿namespace _35_SearchInsertPosition
+﻿using System;
+
+namespace _35_SearchInsertPosition
 {
     public class SolutionSearchInsertPosition
+    {
+        public static void Solution35()
+        {
+            Solution solution = new Solution();
+
+            int result = solution.SearchInsert(new int[] { 1 }, 0);
+            Console.WriteLine(result);
+        }
+    }
+
+    public class Solution
     {
         public int SearchInsert(int[] nums, int target)
         {

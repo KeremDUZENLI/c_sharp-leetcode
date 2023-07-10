@@ -9,6 +9,17 @@ namespace _58_LengthOfLastWord
 {
     public class SolutionLengthOfLastWord
     {
+        public static void Solution58()
+        {
+            Solution solution = new Solution();
+
+            int result = solution.LengthOfLastWord("   fly me   to   the moon  ");
+            Console.WriteLine(result);
+        }
+    }
+
+    public class Solution
+    {
         public int LengthOfLastWord(string s)
         {
             string[] liste = s.Trim().Split();

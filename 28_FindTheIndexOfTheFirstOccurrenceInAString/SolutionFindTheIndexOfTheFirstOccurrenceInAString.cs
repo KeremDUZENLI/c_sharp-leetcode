@@ -9,6 +9,17 @@ namespace _28_FindTheIndexOfTheFirstOccurrenceInAString
 {
     public class SolutionFindTheIndexOfTheFirstOccurrenceInAString
     {
+        public static void Solution28()
+        {
+            Solution solution = new Solution();
+
+            List<char> result = solution.StrStr("leetcode", "etco");
+            Helper.WriteLine(result);
+        }
+    }
+
+    public class Solution
+    {
         public List<char> StrStr(string haystack, string needle)
         {
             List<char> liste = new List<char>();

@@ -8,6 +8,17 @@ namespace _9_PalindromeNumber
 {
     public class SolutionPalindromeNumber
     {
+        public static void Solution9()
+        {
+            Solution solution = new Solution();
+
+            bool result = solution.IsPalindrome(-52225);
+            Console.WriteLine(result);
+        }
+    }
+
+    public class Solution
+    {
         public bool IsPalindrome(int x)
         {
             if (x < 0){ return false; }

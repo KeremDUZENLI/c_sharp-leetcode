@@ -4,3 +4,6 @@ D:\GITHUB\c_sharp-leetcode\26_RemoveDuplicatesFromSortedArray\obj\Debug\26_Remov
 D:\GITHUB\c_sharp-leetcode\26_RemoveDuplicatesFromSortedArray\obj\Debug\26_RemoveDuplicatesFromSortedArray.csproj.CoreCompileInputs.cache
 D:\GITHUB\c_sharp-leetcode\26_RemoveDuplicatesFromSortedArray\obj\Debug\26_RemoveDuplicatesFromSortedArray.dll
 D:\GITHUB\c_sharp-leetcode\26_RemoveDuplicatesFromSortedArray\obj\Debug\26_RemoveDuplicatesFromSortedArray.pdb
+D:\GITHUB\c_sharp-leetcode\26_RemoveDuplicatesFromSortedArray\bin\Debug\0_Xtra.dll
+D:\GITHUB\c_sharp-leetcode\26_RemoveDuplicatesFromSortedArray\bin\Debug\0_Xtra.pdb
+D:\GITHUB\c_sharp-leetcode\26_RemoveDuplicatesFromSortedArray\obj\Debug\26_RemoveDuplicatesFromSortedArray.csproj.CopyComplete

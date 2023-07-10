@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _0_Xtra;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,6 +8,17 @@ using System.Threading.Tasks;
 namespace _1_TwoSum
 {
     public class SolutionTwoSum
+    {
+        public static void Solution1()
+        {
+            Solution solution = new Solution();
+
+            int[] liste = solution.TwoSum(new int[] { 3, 2, 4 }, 6);
+            Helper.WriteLine(liste);
+        }
+    }
+
+    public class Solution
     {
         public int[] TwoSum(int[] nums, int target)
         {

@@ -4,3 +4,6 @@ D:\GITHUB\c_sharp-leetcode\27_RemoveElement\obj\Debug\27_RemoveElement.csproj.As
 D:\GITHUB\c_sharp-leetcode\27_RemoveElement\obj\Debug\27_RemoveElement.csproj.CoreCompileInputs.cache
 D:\GITHUB\c_sharp-leetcode\27_RemoveElement\obj\Debug\27_RemoveElement.dll
 D:\GITHUB\c_sharp-leetcode\27_RemoveElement\obj\Debug\27_RemoveElement.pdb
+D:\GITHUB\c_sharp-leetcode\27_RemoveElement\bin\Debug\0_Xtra.dll
+D:\GITHUB\c_sharp-leetcode\27_RemoveElement\bin\Debug\0_Xtra.pdb
+D:\GITHUB\c_sharp-leetcode\27_RemoveElement\obj\Debug\27_RemoveElement.csproj.CopyComplete

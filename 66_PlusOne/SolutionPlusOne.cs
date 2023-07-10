@@ -9,6 +9,17 @@ namespace _66_PlusOne
 {
     public class SolutionPlusOne
     {
+        public static void Solution66()
+        {
+            Solution solution = new Solution();
+
+            int[] result = solution.PlusOne(new int[] { 9, 9 });
+            Helper.WriteLine(result);
+        }
+    }
+
+    public class Solution
+    {
         public int[] PlusOne(int[] digits)
         {
             Array.Reverse(digits);

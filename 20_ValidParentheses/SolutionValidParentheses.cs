@@ -9,6 +9,17 @@ namespace _20_ValidParentheses
 {
     public class SolutionValidParentheses
     {
+        public static void Solution20()
+        {
+            Solution solution = new Solution();
+
+            bool result = solution.IsValid("()[]{}");
+            Console.WriteLine(result);
+        }
+    }
+
+    public class Solution
+    {
         public bool IsValid(string s)
         {
             Stack<char> stack = new Stack<char>();

@@ -44,5 +44,11 @@
     <Compile Include="SolutionRemoveElement.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\0_Xtra\0_Xtra.csproj">
+      <Project>{F774DDB4-60FF-4F37-89A2-1E5DCF4CE08D}</Project>
+      <Name>0_Xtra</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

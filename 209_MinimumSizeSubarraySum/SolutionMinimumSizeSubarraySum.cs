@@ -9,6 +9,31 @@ namespace _209_MinimumSizeSubarraySum
 {
     public class SolutionMinimumSizeSubarraySum
     {
+        public static void Solution209()
+        {
+            Solution solution = new Solution();
+            int result = solution.MinSubArrayLen(214, new List<int> { 12, 28, 83, 4, 25, 26, 25, 2, 25, 25, 25, 12 });
+            Console.WriteLine(result);
+        }
+
+        public static void Solution209_2()
+        {
+            Solution solution = new Solution();
+
+            List<int> listeSub = new List<int>();
+            List<List<int>> listeNew = new List<List<int>>();
+            solution.ListCreate(new List<int> { 1, 2, 3, 4, 5 }, listeSub, 0, 5, listeNew);
+            listeNew.Sort(new ListCountComparer());
+
+            foreach (List<int> x in listeNew)
+            {
+                Helper.WriteLine(x);
+            }
+        }
+    }
+
+    public class Solution
+    {
         public int MinSubArrayLen(int target, List<int> nums)
         {
             List<int> subListe = new List<int>();
@@ -21,7 +46,7 @@ namespace _209_MinimumSizeSubarraySum
             {
                 if (Total(x) > target)
                 {
-                    Solution.WriteLine(x);
+                    Helper.WriteLine(x);
                     Console.WriteLine("{0} Total --- {1} Target", Total(x), target);
                     return x.Count;
                 } 

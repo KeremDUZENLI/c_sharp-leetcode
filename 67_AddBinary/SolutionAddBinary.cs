@@ -9,6 +9,17 @@ namespace _67_AddBinary
 {
     public class SolutionAddBinary
     {
+        public static void Solution67()
+        {
+            Solution solution = new Solution();
+
+            string result = solution.AddBinary("10101", "101");
+            Console.WriteLine(result);
+        }
+    }
+
+    public class Solution
+    {
         public string AddBinary(string a, string b)
         {
             List<char> listeA = new List<char>(a.ToCharArray());

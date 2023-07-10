@@ -8,6 +8,17 @@ namespace _13_RomanToInteger
 {
     public class SolutionRomanToInteger
     {
+        public static void Solution13()
+        {
+            Solution solution = new Solution();
+
+            int result = solution.RomanToInt("MCMXCIV");
+            Console.WriteLine(result);
+        }
+    }
+
+    public class Solution
+    {
         public int RomanToInt(string s)
         {
             int total = 0;

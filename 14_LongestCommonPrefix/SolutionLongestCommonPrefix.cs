@@ -5,6 +5,17 @@ namespace _14_LongestCommonPrefix
 {
     public class SolutionLongestCommonPrefix
     {
+        public static void Solution14()
+        {
+            Solution solution = new Solution();
+
+            string result = solution.LongestCommonPrefix(new string[] { "flower", "flow", "flight" });
+            Console.WriteLine(result);
+        }
+    }
+
+    public class Solution
+    {
         public string LongestCommonPrefix(string[] strs)
         {
             if (strs == null || strs.Length == 0)
