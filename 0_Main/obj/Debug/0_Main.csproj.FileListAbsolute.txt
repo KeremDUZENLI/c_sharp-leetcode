@@ -46,3 +46,5 @@ D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\209_MinimumSizeSubarraySum.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\209_MinimumSizeSubarraySum.pdb
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\66_PlusOne.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\66_PlusOne.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\67_AddBinary.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\67_AddBinary.pdb

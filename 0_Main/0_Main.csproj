@@ -106,6 +106,10 @@
       <Project>{62BAD02F-12F8-47D0-9F45-3A68183548AE}</Project>
       <Name>66_PlusOne</Name>
     </ProjectReference>
+    <ProjectReference Include="..\67_AddBinary\67_AddBinary.csproj">
+      <Project>{320E076C-9488-4AA1-9B3E-40ABEF3E95E7}</Project>
+      <Name>67_AddBinary</Name>
+    </ProjectReference>
     <ProjectReference Include="..\9_PalindromeNumber\9_PalindromeNumber.csproj">
       <Project>{79717A98-50E6-42C7-9BE1-564D6E5108E9}</Project>
       <Name>9_PalindromeNumber</Name>

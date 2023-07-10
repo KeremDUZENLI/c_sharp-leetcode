@@ -12,6 +12,7 @@ using _28_FindTheIndexOfTheFirstOccurrenceInAString;
 using _35_SearchInsertPosition;
 using _58_LengthOfLastWord;
 using _66_PlusOne;
+using _67_AddBinary;
 using _9_PalindromeNumber;
 using System;
 using System.Collections.Generic;
@@ -47,6 +48,7 @@ namespace _0_Main
                 Solution35,
                 Solution58,
                 Solution66,
+                Solution67,
                 Solution209
             };
 
@@ -189,6 +191,14 @@ namespace _0_Main
 
             int[] result = solutionPlusOne.PlusOne(new int[] { 9, 9 });
             Solution.WriteLine(result);
+        }
+
+        private static void Solution67()
+        {
+            SolutionAddBinary solutionAddBinary = new SolutionAddBinary();
+
+            string result = solutionAddBinary.AddBinary("0", "0");
+            Console.WriteLine(result);
         }
 
         private static void Solution209()
