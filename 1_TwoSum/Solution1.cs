@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace _1_TwoSum
 {
-    public class SolutionTwoSum
+    public class Solution1 
     {
-        public static void Solution1()
+        public static void SolutionTwoSum()
         {
             Solution solution = new Solution();
 
             int[] liste = solution.TwoSum(new int[] { 3, 2, 4 }, 6);
-            Helper.WriteLine(liste);
+            Solution0.WriteLine(liste);
         }
     }
 

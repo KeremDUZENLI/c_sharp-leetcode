@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace _20_ValidParentheses
 {
-    public class SolutionValidParentheses
+    public class Solution20 
     {
-        public static void Solution20()
+        public static void SolutionValidParentheses()
         {
             Solution solution = new Solution();
 

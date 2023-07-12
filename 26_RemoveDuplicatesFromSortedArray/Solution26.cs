@@ -8,14 +8,14 @@ using System.Threading.Tasks;
 
 namespace _26_RemoveDuplicatesFromSortedArray
 {
-    public class SolutionRemoveDuplicatesFromSortedArray
+    public class Solution26 
     {
-        public static void Solution26()
+        public static void SolutionRemoveDuplicatesFromSortedArray()
         {
             Solution solution = new Solution();
 
             List<int> result = solution.RemoveDuplicates(new int[] { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 });
-            Helper.WriteLine(result);
+            Solution0.WriteLine(result);
         }
     }
 

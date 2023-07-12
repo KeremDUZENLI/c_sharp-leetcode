@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace _209_MinimumSizeSubarraySum
 {
-    public class SolutionMinimumSizeSubarraySum
+    public class Solution209 
     {
-        public static void Solution209()
+        public static void SolutionMinimumSizeSubarraySum()
         {
             Solution solution = new Solution();
             int result = solution.MinSubArrayLen(214, new List<int> { 12, 28, 83, 4, 25, 26, 25, 2, 25, 25, 25, 12 });
@@ -27,7 +27,7 @@ namespace _209_MinimumSizeSubarraySum
 
             foreach (List<int> x in listeNew)
             {
-                Helper.WriteLine(x);
+                Solution0.WriteLine(x);
             }
         }
     }
@@ -46,7 +46,7 @@ namespace _209_MinimumSizeSubarraySum
             {
                 if (Total(x) > target)
                 {
-                    Helper.WriteLine(x);
+                    Solution0.WriteLine(x);
                     Console.WriteLine("{0} Total --- {1} Target", Total(x), target);
                     return x.Count;
                 } 

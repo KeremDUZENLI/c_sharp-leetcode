@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace _58_LengthOfLastWord
 {
-    public class SolutionLengthOfLastWord
+    public class Solution58 
     {
-        public static void Solution58()
+        public static void SolutionLengthOfLastWord()
         {
             Solution solution = new Solution();
 

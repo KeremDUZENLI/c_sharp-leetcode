@@ -2,9 +2,9 @@
 
 namespace _35_SearchInsertPosition
 {
-    public class SolutionSearchInsertPosition
+    public class Solution35 
     {
-        public static void Solution35()
+        public static void SolutionSearchInsertPosition()
         {
             Solution solution = new Solution();
 

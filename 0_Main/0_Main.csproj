@@ -110,6 +110,14 @@
       <Project>{320E076C-9488-4AA1-9B3E-40ABEF3E95E7}</Project>
       <Name>67_AddBinary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\69_Sqrt%28x%29\69_Sqrt%28x%29.csproj">
+      <Project>{29EB5DA3-B893-4822-9CA0-70FC95AF47D1}</Project>
+      <Name>69_Sqrt%28x%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\70_ClimbingStairs\70_ClimbingStairs.csproj">
+      <Project>{2BA5B211-EE37-446F-A671-4FB013FEEBCA}</Project>
+      <Name>70_ClimbingStairs</Name>
+    </ProjectReference>
     <ProjectReference Include="..\9_PalindromeNumber\9_PalindromeNumber.csproj">
       <Project>{79717A98-50E6-42C7-9BE1-564D6E5108E9}</Project>
       <Name>9_PalindromeNumber</Name>

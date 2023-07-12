@@ -3,9 +3,9 @@ using System.Collections.Generic;
 
 namespace _14_LongestCommonPrefix
 {
-    public class SolutionLongestCommonPrefix
+    public class Solution14 
     {
-        public static void Solution14()
+        public static void SolutionLongestCommonPrefix()
         {
             Solution solution = new Solution();
 

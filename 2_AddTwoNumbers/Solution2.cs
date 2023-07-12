@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _2_AddTwoNumbers
 {
-    public class SolutionAddTwoNumbers
+    public class Solution2 
     {
-        public static void Solution2()
+        public static void SolutionAddTwoNumbers()
         {
             Solution solution = new Solution();
 

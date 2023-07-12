@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace _67_AddBinary
 {
-    public class SolutionAddBinary
+    public class Solution67 
     {
-        public static void Solution67()
+        public static void SolutionAddBinary()
         {
             Solution solution = new Solution();
 

@@ -37,6 +37,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66_PlusOne", "66_PlusOne\66
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67_AddBinary", "67_AddBinary\67_AddBinary.csproj", "{320E076C-9488-4AA1-9B3E-40ABEF3E95E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69_Sqrt(x)", "69_Sqrt(x)\69_Sqrt(x).csproj", "{29EB5DA3-B893-4822-9CA0-70FC95AF47D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_ClimbingStairs", "70_ClimbingStairs\70_ClimbingStairs.csproj", "{2BA5B211-EE37-446F-A671-4FB013FEEBCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +115,14 @@ Global
 		{320E076C-9488-4AA1-9B3E-40ABEF3E95E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{320E076C-9488-4AA1-9B3E-40ABEF3E95E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{320E076C-9488-4AA1-9B3E-40ABEF3E95E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EB5DA3-B893-4822-9CA0-70FC95AF47D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EB5DA3-B893-4822-9CA0-70FC95AF47D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EB5DA3-B893-4822-9CA0-70FC95AF47D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EB5DA3-B893-4822-9CA0-70FC95AF47D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA5B211-EE37-446F-A671-4FB013FEEBCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA5B211-EE37-446F-A671-4FB013FEEBCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA5B211-EE37-446F-A671-4FB013FEEBCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA5B211-EE37-446F-A671-4FB013FEEBCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

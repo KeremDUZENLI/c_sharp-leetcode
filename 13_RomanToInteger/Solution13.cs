@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _13_RomanToInteger
 {
-    public class SolutionRomanToInteger
+    public class Solution13
     {
-        public static void Solution13()
+        public static void SolutionRomanToInteger()
         {
             Solution solution = new Solution();
 

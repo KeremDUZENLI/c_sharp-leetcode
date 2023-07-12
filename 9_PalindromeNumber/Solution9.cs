@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _9_PalindromeNumber
 {
-    public class SolutionPalindromeNumber
+    public class Solution9 
     {
-        public static void Solution9()
+        public static void SolutionPalindromeNumber()
         {
             Solution solution = new Solution();
 

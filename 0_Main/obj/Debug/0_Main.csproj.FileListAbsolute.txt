@@ -48,3 +48,7 @@ D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\66_PlusOne.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\66_PlusOne.pdb
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\67_AddBinary.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\67_AddBinary.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\69_Sqrt(x).dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\69_Sqrt(x).pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\70_ClimbingStairs.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\70_ClimbingStairs.pdb

@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace _27_RemoveElement
 {
-    public class SolutionRemoveElement
+    public class Solution27 
     {
-        public static void Solution27()
+        public static void SolutionRemoveElement()
         {
             Solution solution = new Solution();
 
             int[] result = solution.RemoveElement(new int[] { 0, 1, 2, 2, 3, 0, 4, 2 }, 0);
-            Helper.WriteLine(result);
+            Solution0.WriteLine(result);
         }
     }
 

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace _21_MergeTwoSortedLists
 {
-    public class SolutionMergeTwoSortedLists
+    public class Solution21 
     {
-        public static void Solution21()
+        public static void SolutionMergeTwoSortedLists()
         {
             ListNode liste1 = new ListNode();
             liste1.val = 1;

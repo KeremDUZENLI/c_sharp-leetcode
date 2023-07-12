@@ -6,15 +6,8 @@ using System.Threading.Tasks;
 
 namespace _0_Xtra
 {
-    public static class Helper
+    public static class Solution0
     {
-        public static void WriteLine<T>(IEnumerable<T> liste)
-        {
-            string result = "[" + string.Join(", ", liste) + "]";
-
-            Console.WriteLine(result);
-        }
-
         public static void WriteLineFunctions(List<Action> functionsList)
         {
             foreach (Action function in functionsList)
@@ -22,6 +15,22 @@ namespace _0_Xtra
                 Console.WriteLine($"\n{function.Method.Name}:");
                 function();
             }
+        }
+
+        public static void WriteLineClasses(List<Action> classesList)
+        {
+            foreach (Action function in classesList)
+            {
+                Console.WriteLine($"\n{function.Method.DeclaringType.Name}:");
+                function();
+            }
+        }
+
+        public static void WriteLine<T>(IEnumerable<T> liste)
+        {
+            string result = "[" + string.Join(", ", liste) + "]";
+
+            Console.WriteLine(result);
         }
     }
 

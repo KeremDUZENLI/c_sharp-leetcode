@@ -13,6 +13,8 @@ using _35_SearchInsertPosition;
 using _58_LengthOfLastWord;
 using _66_PlusOne;
 using _67_AddBinary;
+using _69_Sqrt_x_;
+using _70_ClimbingStairs;
 using _9_PalindromeNumber;
 using System;
 using System.Collections.Generic;
@@ -35,24 +37,26 @@ namespace _0_Main
         {
             List<Action> functionsList = new List<Action>()
             {
-                SolutionTwoSum.Solution1,
-                SolutionAddTwoNumbers.Solution2,
-                SolutionPalindromeNumber.Solution9,
-                SolutionRomanToInteger.Solution13,
-                SolutionLongestCommonPrefix.Solution14,
-                SolutionValidParentheses.Solution20,
-                SolutionMergeTwoSortedLists.Solution21,
-                SolutionRemoveDuplicatesFromSortedArray.Solution26,
-                SolutionRemoveElement.Solution27,
-                SolutionFindTheIndexOfTheFirstOccurrenceInAString.Solution28,
-                SolutionSearchInsertPosition.Solution35,
-                SolutionLengthOfLastWord.Solution58,
-                SolutionPlusOne.Solution66,
-                SolutionAddBinary.Solution67,
-                SolutionMinimumSizeSubarraySum.Solution209
+                Solution1.SolutionTwoSum,
+                Solution2.SolutionAddTwoNumbers,
+                Solution9.SolutionPalindromeNumber,
+                Solution13.SolutionRomanToInteger,
+                Solution14.SolutionLongestCommonPrefix,
+                Solution20.SolutionValidParentheses,
+                Solution21.SolutionMergeTwoSortedLists,
+                Solution26.SolutionRemoveDuplicatesFromSortedArray,
+                Solution27.SolutionRemoveElement,
+                Solution28.SolutionFindTheIndexOfTheFirstOccurrenceInAString,
+                Solution35.SolutionSearchInsertPosition,
+                Solution58.SolutionLengthOfLastWord,
+                Solution66.SolutionPlusOne,
+                Solution67.SolutionAddBinary,
+                Solution69.SolutionSqrt,
+                Solution70.SolutionClimbingStairs,
+                Solution209.SolutionMinimumSizeSubarraySum
             };
 
-            Helper.WriteLineFunctions(functionsList);
+            Solution0.WriteLineClasses(functionsList);
         }
     }
 }

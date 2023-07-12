@@ -1,0 +1,6 @@
+D:\GITHUB\c_sharp-leetcode\69_Sqrt(x)\bin\Debug\69_Sqrt(x).dll
+D:\GITHUB\c_sharp-leetcode\69_Sqrt(x)\bin\Debug\69_Sqrt(x).pdb
+D:\GITHUB\c_sharp-leetcode\69_Sqrt(x)\obj\Debug\69_Sqrt(x).csproj.AssemblyReference.cache
+D:\GITHUB\c_sharp-leetcode\69_Sqrt(x)\obj\Debug\69_Sqrt(x).csproj.CoreCompileInputs.cache
+D:\GITHUB\c_sharp-leetcode\69_Sqrt(x)\obj\Debug\69_Sqrt(x).dll
+D:\GITHUB\c_sharp-leetcode\69_Sqrt(x)\obj\Debug\69_Sqrt(x).pdb

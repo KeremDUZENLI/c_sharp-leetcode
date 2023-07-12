@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace _66_PlusOne
 {
-    public class SolutionPlusOne
+    public class Solution66 
     {
-        public static void Solution66()
+        public static void SolutionPlusOne()
         {
             Solution solution = new Solution();
 
             int[] result = solution.PlusOne(new int[] { 9, 9 });
-            Helper.WriteLine(result);
+            Solution0.WriteLine(result);
         }
     }
 

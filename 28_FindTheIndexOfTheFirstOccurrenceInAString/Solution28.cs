@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace _28_FindTheIndexOfTheFirstOccurrenceInAString
 {
-    public class SolutionFindTheIndexOfTheFirstOccurrenceInAString
+    public class Solution28 
     {
-        public static void Solution28()
+        public static void SolutionFindTheIndexOfTheFirstOccurrenceInAString()
         {
             Solution solution = new Solution();
 
             List<char> result = solution.StrStr("leetcode", "etco");
-            Helper.WriteLine(result);
+            Solution0.WriteLine(result);
         }
     }
 
