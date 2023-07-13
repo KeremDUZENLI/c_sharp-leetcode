@@ -15,6 +15,7 @@ using _66_PlusOne;
 using _67_AddBinary;
 using _69_Sqrt_x_;
 using _70_ClimbingStairs;
+using _83_RemoveDuplicatesFromSortedList;
 using _9_PalindromeNumber;
 using System;
 using System.Collections.Generic;
@@ -26,7 +27,6 @@ namespace _0_Main
 {
     class Program
     {
-
         static void Main(string[] args)
         {
             Problems();
@@ -37,23 +37,24 @@ namespace _0_Main
         {
             List<Action> functionsList = new List<Action>()
             {
-                Solution1.SolutionTwoSum,
-                Solution2.SolutionAddTwoNumbers,
-                Solution9.SolutionPalindromeNumber,
-                Solution13.SolutionRomanToInteger,
-                Solution14.SolutionLongestCommonPrefix,
-                Solution20.SolutionValidParentheses,
-                Solution21.SolutionMergeTwoSortedLists,
-                Solution26.SolutionRemoveDuplicatesFromSortedArray,
-                Solution27.SolutionRemoveElement,
-                Solution28.SolutionFindTheIndexOfTheFirstOccurrenceInAString,
-                Solution35.SolutionSearchInsertPosition,
-                Solution58.SolutionLengthOfLastWord,
-                Solution66.SolutionPlusOne,
-                Solution67.SolutionAddBinary,
-                Solution69.SolutionSqrt,
-                Solution70.SolutionClimbingStairs,
-                Solution209.SolutionMinimumSizeSubarraySum
+                Solution1.TwoSum,
+                Solution2.AddTwoNumbers,
+                Solution9.PalindromeNumber,
+                Solution13.RomanToInteger,
+                Solution14.LongestCommonPrefix,
+                Solution20.ValidParentheses,
+                Solution21.MergeTwoSortedLists,
+                Solution26.RemoveDuplicatesFromSortedArray,
+                Solution27.RemoveElement,
+                Solution28.FindTheIndexOfTheFirstOccurrenceInAString,
+                Solution35.SearchInsertPosition,
+                Solution58.LengthOfLastWord,
+                Solution66.PlusOne,
+                Solution67.AddBinary,
+                Solution69.Sqrt,
+                Solution70.ClimbingStairs,
+                Solution83.RemoveDuplicatesFromSortedList,
+                Solution209.MinimumSizeSubarraySum
             };
 
             Solution0.WriteLineClasses(functionsList);

@@ -9,7 +9,7 @@ namespace _58_LengthOfLastWord
 {
     public class Solution58 
     {
-        public static void SolutionLengthOfLastWord()
+        public static void LengthOfLastWord()
         {
             Solution solution = new Solution();
 

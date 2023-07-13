@@ -9,7 +9,7 @@ namespace _1_TwoSum
 {
     public class Solution1 
     {
-        public static void SolutionTwoSum()
+        public static void TwoSum()
         {
             Solution solution = new Solution();
 

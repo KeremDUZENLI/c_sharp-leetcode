@@ -9,14 +9,14 @@ namespace _209_MinimumSizeSubarraySum
 {
     public class Solution209 
     {
-        public static void SolutionMinimumSizeSubarraySum()
+        public static void MinimumSizeSubarraySum()
         {
             Solution solution = new Solution();
             int result = solution.MinSubArrayLen(214, new List<int> { 12, 28, 83, 4, 25, 26, 25, 2, 25, 25, 25, 12 });
             Console.WriteLine(result);
         }
 
-        public static void Solution209_2()
+        public static void MinimumSizeSubarraySum_2()
         {
             Solution solution = new Solution();
 

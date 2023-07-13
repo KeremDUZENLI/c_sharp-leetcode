@@ -8,7 +8,7 @@ namespace _2_AddTwoNumbers
 {
     public class Solution2 
     {
-        public static void SolutionAddTwoNumbers()
+        public static void AddTwoNumbers()
         {
             Solution solution = new Solution();
 

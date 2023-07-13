@@ -8,7 +8,7 @@ namespace _9_PalindromeNumber
 {
     public class Solution9 
     {
-        public static void SolutionPalindromeNumber()
+        public static void PalindromeNumber()
         {
             Solution solution = new Solution();
 

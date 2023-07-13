@@ -4,7 +4,7 @@ namespace _35_SearchInsertPosition
 {
     public class Solution35 
     {
-        public static void SolutionSearchInsertPosition()
+        public static void SearchInsertPosition()
         {
             Solution solution = new Solution();
 

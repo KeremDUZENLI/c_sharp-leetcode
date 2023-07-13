@@ -9,7 +9,7 @@ namespace _66_PlusOne
 {
     public class Solution66 
     {
-        public static void SolutionPlusOne()
+        public static void PlusOne()
         {
             Solution solution = new Solution();
 

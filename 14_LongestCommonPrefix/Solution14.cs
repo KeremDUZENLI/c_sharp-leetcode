@@ -5,7 +5,7 @@ namespace _14_LongestCommonPrefix
 {
     public class Solution14 
     {
-        public static void SolutionLongestCommonPrefix()
+        public static void LongestCommonPrefix()
         {
             Solution solution = new Solution();
 

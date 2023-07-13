@@ -9,7 +9,7 @@ namespace _28_FindTheIndexOfTheFirstOccurrenceInAString
 {
     public class Solution28 
     {
-        public static void SolutionFindTheIndexOfTheFirstOccurrenceInAString()
+        public static void FindTheIndexOfTheFirstOccurrenceInAString()
         {
             Solution solution = new Solution();
 

@@ -8,7 +8,7 @@ namespace _69_Sqrt_x_
 {
     public class Solution69 
     {
-        public static void SolutionSqrt()
+        public static void Sqrt()
         {
             Solution solution = new Solution();
 

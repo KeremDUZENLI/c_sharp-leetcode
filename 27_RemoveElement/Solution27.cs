@@ -9,7 +9,7 @@ namespace _27_RemoveElement
 {
     public class Solution27 
     {
-        public static void SolutionRemoveElement()
+        public static void RemoveElement()
         {
             Solution solution = new Solution();
 

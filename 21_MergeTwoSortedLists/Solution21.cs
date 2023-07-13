@@ -8,7 +8,7 @@ namespace _21_MergeTwoSortedLists
 {
     public class Solution21 
     {
-        public static void SolutionMergeTwoSortedLists()
+        public static void MergeTwoSortedLists()
         {
             ListNode liste1 = new ListNode();
             liste1.val = 1;

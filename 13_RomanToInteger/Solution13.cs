@@ -8,7 +8,7 @@ namespace _13_RomanToInteger
 {
     public class Solution13
     {
-        public static void SolutionRomanToInteger()
+        public static void RomanToInteger()
         {
             Solution solution = new Solution();
 

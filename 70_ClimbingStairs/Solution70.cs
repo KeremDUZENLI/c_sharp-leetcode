@@ -9,7 +9,7 @@ namespace _70_ClimbingStairs
 {
     public class Solution70 
     {
-        public static void SolutionClimbingStairs()
+        public static void ClimbingStairs()
         {
             Solution solution = new Solution();
 
@@ -17,7 +17,7 @@ namespace _70_ClimbingStairs
             Console.WriteLine(result);
         }
 
-        public static void Solution70_2()
+        public static void ClimbingStairs_2()
         {
             Solution_2 solution_2 = new Solution_2();
 

@@ -118,6 +118,10 @@
       <Project>{2BA5B211-EE37-446F-A671-4FB013FEEBCA}</Project>
       <Name>70_ClimbingStairs</Name>
     </ProjectReference>
+    <ProjectReference Include="..\83_RemoveDuplicatesFromSortedList\83_RemoveDuplicatesFromSortedList.csproj">
+      <Project>{B92ED3C9-1CC3-438A-8D66-4694BBC797B0}</Project>
+      <Name>83_RemoveDuplicatesFromSortedList</Name>
+    </ProjectReference>
     <ProjectReference Include="..\9_PalindromeNumber\9_PalindromeNumber.csproj">
       <Project>{79717A98-50E6-42C7-9BE1-564D6E5108E9}</Project>
       <Name>9_PalindromeNumber</Name>

@@ -10,7 +10,7 @@ namespace _26_RemoveDuplicatesFromSortedArray
 {
     public class Solution26 
     {
-        public static void SolutionRemoveDuplicatesFromSortedArray()
+        public static void RemoveDuplicatesFromSortedArray()
         {
             Solution solution = new Solution();
 

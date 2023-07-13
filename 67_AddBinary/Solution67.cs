@@ -9,7 +9,7 @@ namespace _67_AddBinary
 {
     public class Solution67 
     {
-        public static void SolutionAddBinary()
+        public static void AddBinary()
         {
             Solution solution = new Solution();
 

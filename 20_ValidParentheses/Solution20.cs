@@ -9,7 +9,7 @@ namespace _20_ValidParentheses
 {
     public class Solution20 
     {
-        public static void SolutionValidParentheses()
+        public static void ValidParentheses()
         {
             Solution solution = new Solution();
 
