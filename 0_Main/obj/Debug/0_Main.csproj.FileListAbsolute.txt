@@ -54,3 +54,9 @@ D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\70_ClimbingStairs.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\70_ClimbingStairs.pdb
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\83_RemoveDuplicatesFromSortedList.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\83_RemoveDuplicatesFromSortedList.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\88_MergeSortedArray.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\88_MergeSortedArray.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\94_BinaryTreeInorderTraversal.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\94_BinaryTreeInorderTraversal.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\100_SameTree.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\100_SameTree.pdb

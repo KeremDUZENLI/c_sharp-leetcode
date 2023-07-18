@@ -1,5 +1,6 @@
 ﻿using _0_Xtra;
 using _1_TwoSum;
+using _100_SameTree;
 using _13_RomanToInteger;
 using _14_LongestCommonPrefix;
 using _2_AddTwoNumbers;
@@ -16,7 +17,9 @@ using _67_AddBinary;
 using _69_Sqrt_x_;
 using _70_ClimbingStairs;
 using _83_RemoveDuplicatesFromSortedList;
+using _88_MergeSortedArray;
 using _9_PalindromeNumber;
+using _94_BinaryTreeInorderTraversal;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -54,10 +57,14 @@ namespace _0_Main
                 Solution69.Sqrt,
                 Solution70.ClimbingStairs,
                 Solution83.RemoveDuplicatesFromSortedList,
+                Solution88.MergeSortedArray,
+                Solution94.BinaryTreeInorderTraversal,
+                Solution100.SameTree,
                 Solution209.MinimumSizeSubarraySum
             };
 
             Solution0.WriteLineClasses(functionsList);
+            Console.WriteLine("\n#####     SOLVED: {0}     #####\n", functionsList.Count);
         }
     }
 }

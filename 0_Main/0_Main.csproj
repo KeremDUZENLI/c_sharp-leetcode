@@ -54,6 +54,10 @@
       <Project>{F774DDB4-60FF-4F37-89A2-1E5DCF4CE08D}</Project>
       <Name>0_Xtra</Name>
     </ProjectReference>
+    <ProjectReference Include="..\100_SameTree\100_SameTree.csproj">
+      <Project>{C3C6EAD2-97EF-42FD-BF0F-9E6A535E3FFB}</Project>
+      <Name>100_SameTree</Name>
+    </ProjectReference>
     <ProjectReference Include="..\13_RomanToInteger\13_RomanToInteger.csproj">
       <Project>{8479BFF8-8D78-4098-B89F-D58275C77698}</Project>
       <Name>13_RomanToInteger</Name>
@@ -121,6 +125,14 @@
     <ProjectReference Include="..\83_RemoveDuplicatesFromSortedList\83_RemoveDuplicatesFromSortedList.csproj">
       <Project>{B92ED3C9-1CC3-438A-8D66-4694BBC797B0}</Project>
       <Name>83_RemoveDuplicatesFromSortedList</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\88_MergeSortedArray\88_MergeSortedArray.csproj">
+      <Project>{6A93A575-F526-47EB-81BD-635DE0CB2E8F}</Project>
+      <Name>88_MergeSortedArray</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\94_BinaryTreeInorderTraversal\94_BinaryTreeInorderTraversal.csproj">
+      <Project>{6C0271ED-520D-486D-89A8-9802CC66F0DE}</Project>
+      <Name>94_BinaryTreeInorderTraversal</Name>
     </ProjectReference>
     <ProjectReference Include="..\9_PalindromeNumber\9_PalindromeNumber.csproj">
       <Project>{79717A98-50E6-42C7-9BE1-564D6E5108E9}</Project>
