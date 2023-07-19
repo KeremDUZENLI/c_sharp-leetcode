@@ -58,6 +58,10 @@
       <Project>{C3C6EAD2-97EF-42FD-BF0F-9E6A535E3FFB}</Project>
       <Name>100_SameTree</Name>
     </ProjectReference>
+    <ProjectReference Include="..\101_SymmetricTree\101_SymmetricTree.csproj">
+      <Project>{1E70ACE4-AEEE-4926-A295-221CC0138A67}</Project>
+      <Name>101_SymmetricTree</Name>
+    </ProjectReference>
     <ProjectReference Include="..\13_RomanToInteger\13_RomanToInteger.csproj">
       <Project>{8479BFF8-8D78-4098-B89F-D58275C77698}</Project>
       <Name>13_RomanToInteger</Name>

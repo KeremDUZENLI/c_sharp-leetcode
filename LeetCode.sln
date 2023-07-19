@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94_BinaryTreeInorderTravers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100_SameTree", "100_SameTree\100_SameTree.csproj", "{C3C6EAD2-97EF-42FD-BF0F-9E6A535E3FFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101_SymmetricTree", "101_SymmetricTree\101_SymmetricTree.csproj", "{1E70ACE4-AEEE-4926-A295-221CC0138A67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{C3C6EAD2-97EF-42FD-BF0F-9E6A535E3FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C6EAD2-97EF-42FD-BF0F-9E6A535E3FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C6EAD2-97EF-42FD-BF0F-9E6A535E3FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E70ACE4-AEEE-4926-A295-221CC0138A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E70ACE4-AEEE-4926-A295-221CC0138A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E70ACE4-AEEE-4926-A295-221CC0138A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E70ACE4-AEEE-4926-A295-221CC0138A67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

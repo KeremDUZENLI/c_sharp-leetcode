@@ -1,6 +1,7 @@
 ﻿using _0_Xtra;
 using _1_TwoSum;
 using _100_SameTree;
+using _101_SymmetricTree;
 using _13_RomanToInteger;
 using _14_LongestCommonPrefix;
 using _2_AddTwoNumbers;
@@ -60,11 +61,12 @@ namespace _0_Main
                 Solution88.MergeSortedArray,
                 Solution94.BinaryTreeInorderTraversal,
                 Solution100.SameTree,
+                Solution101.SymmetricTree,
                 Solution209.MinimumSizeSubarraySum
             };
 
             Solution0.WriteLineClasses(functionsList);
-            Console.WriteLine("\n#####     SOLVED: {0}     #####\n", functionsList.Count);
+            Console.WriteLine("\n\n#####     SOLVED: {0}     #####\n\n", functionsList.Count);
         }
     }
 }

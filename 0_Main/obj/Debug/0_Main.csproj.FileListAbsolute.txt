@@ -60,3 +60,5 @@ D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\94_BinaryTreeInorderTraversal.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\94_BinaryTreeInorderTraversal.pdb
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\100_SameTree.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\100_SameTree.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\101_SymmetricTree.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\101_SymmetricTree.pdb
