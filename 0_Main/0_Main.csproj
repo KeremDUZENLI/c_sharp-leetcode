@@ -62,6 +62,14 @@
       <Project>{1E70ACE4-AEEE-4926-A295-221CC0138A67}</Project>
       <Name>101_SymmetricTree</Name>
     </ProjectReference>
+    <ProjectReference Include="..\104_MaximumDepthOfBinaryTree\104_MaximumDepthOfBinaryTree.csproj">
+      <Project>{09FF32D2-74DA-432C-B022-7B520217F453}</Project>
+      <Name>104_MaximumDepthOfBinaryTree</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\108_ConvertSortedArrayToBinarySearchTree\108_ConvertSortedArrayToBinarySearchTree.csproj">
+      <Project>{4542FEEA-2330-44FB-815B-D399C837E544}</Project>
+      <Name>108_ConvertSortedArrayToBinarySearchTree</Name>
+    </ProjectReference>
     <ProjectReference Include="..\13_RomanToInteger\13_RomanToInteger.csproj">
       <Project>{8479BFF8-8D78-4098-B89F-D58275C77698}</Project>
       <Name>13_RomanToInteger</Name>

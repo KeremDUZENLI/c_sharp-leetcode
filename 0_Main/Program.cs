@@ -2,6 +2,8 @@
 using _1_TwoSum;
 using _100_SameTree;
 using _101_SymmetricTree;
+using _104_MaximumDepthOfBinaryTree;
+using _108_ConvertSortedArrayToBinarySearchTree;
 using _13_RomanToInteger;
 using _14_LongestCommonPrefix;
 using _2_AddTwoNumbers;
@@ -62,6 +64,8 @@ namespace _0_Main
                 Solution94.BinaryTreeInorderTraversal,
                 Solution100.SameTree,
                 Solution101.SymmetricTree,
+                Solution104.MaximumDepthOfBinaryTree,
+                Solution108.ConvertSortedArrayToBinarySearchTree,
                 Solution209.MinimumSizeSubarraySum
             };
 

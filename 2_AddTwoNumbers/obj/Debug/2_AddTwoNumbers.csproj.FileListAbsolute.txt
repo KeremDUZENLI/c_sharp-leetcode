@@ -4,3 +4,6 @@ D:\GITHUB\c_sharp-leetcode\2_AddTwoNumbers\obj\Debug\2_AddTwoNumbers.csproj.Asse
 D:\GITHUB\c_sharp-leetcode\2_AddTwoNumbers\obj\Debug\2_AddTwoNumbers.csproj.CoreCompileInputs.cache
 D:\GITHUB\c_sharp-leetcode\2_AddTwoNumbers\obj\Debug\2_AddTwoNumbers.dll
 D:\GITHUB\c_sharp-leetcode\2_AddTwoNumbers\obj\Debug\2_AddTwoNumbers.pdb
+D:\GITHUB\c_sharp-leetcode\2_AddTwoNumbers\bin\Debug\0_Xtra.dll
+D:\GITHUB\c_sharp-leetcode\2_AddTwoNumbers\bin\Debug\0_Xtra.pdb
+D:\GITHUB\c_sharp-leetcode\2_AddTwoNumbers\obj\Debug\2_AddTwoNumbers.csproj.CopyComplete

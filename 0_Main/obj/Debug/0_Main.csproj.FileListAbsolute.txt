@@ -62,3 +62,7 @@ D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\100_SameTree.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\100_SameTree.pdb
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\101_SymmetricTree.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\101_SymmetricTree.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\104_MaximumDepthOfBinaryTree.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\104_MaximumDepthOfBinaryTree.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\108_ConvertSortedArrayToBinarySearchTree.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\108_ConvertSortedArrayToBinarySearchTree.pdb
