@@ -70,6 +70,10 @@
       <Project>{4542FEEA-2330-44FB-815B-D399C837E544}</Project>
       <Name>108_ConvertSortedArrayToBinarySearchTree</Name>
     </ProjectReference>
+    <ProjectReference Include="..\110_BalancedBinaryTree\110_BalancedBinaryTree.csproj">
+      <Project>{D64BAB0E-6968-4EB0-BF80-FE24D22D23CB}</Project>
+      <Name>110_BalancedBinaryTree</Name>
+    </ProjectReference>
     <ProjectReference Include="..\13_RomanToInteger\13_RomanToInteger.csproj">
       <Project>{8479BFF8-8D78-4098-B89F-D58275C77698}</Project>
       <Name>13_RomanToInteger</Name>

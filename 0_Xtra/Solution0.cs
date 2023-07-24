@@ -30,8 +30,8 @@ namespace _0_Xtra
         {
             if (root != null)
             {
-                WriteLineBinaryTrees(root.left);
                 Console.Write(" {0} ", root.val);
+                WriteLineBinaryTrees(root.left);
                 WriteLineBinaryTrees(root.right);
             }
         }
