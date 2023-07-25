@@ -5,6 +5,7 @@ using _101_SymmetricTree;
 using _104_MaximumDepthOfBinaryTree;
 using _108_ConvertSortedArrayToBinarySearchTree;
 using _110_BalancedBinaryTree;
+using _111_MinimumDepthOfBinaryTree;
 using _13_RomanToInteger;
 using _14_LongestCommonPrefix;
 using _2_AddTwoNumbers;
@@ -68,6 +69,7 @@ namespace _0_Main
                 Solution104.MaximumDepthOfBinaryTree,
                 Solution108.ConvertSortedArrayToBinarySearchTree,
                 Solution110.Balanced,
+                Solution111.MinimumDepthOfBinaryTree,
                 Solution209.MinimumSizeSubarraySum
             };
 

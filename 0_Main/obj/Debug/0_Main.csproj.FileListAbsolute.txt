@@ -68,3 +68,5 @@ D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\108_ConvertSortedArrayToBinarySearch
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\108_ConvertSortedArrayToBinarySearchTree.pdb
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\110_BalancedBinaryTree.dll
 D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\110_BalancedBinaryTree.pdb
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\111_MinimumDepthOfBinaryTree.dll
+D:\GITHUB\c_sharp-leetcode\0_Main\bin\Debug\111_MinimumDepthOfBinaryTree.pdb

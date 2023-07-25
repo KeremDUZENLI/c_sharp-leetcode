@@ -74,6 +74,10 @@
       <Project>{D64BAB0E-6968-4EB0-BF80-FE24D22D23CB}</Project>
       <Name>110_BalancedBinaryTree</Name>
     </ProjectReference>
+    <ProjectReference Include="..\111_MinimumDepthOfBinaryTree\111_MinimumDepthOfBinaryTree.csproj">
+      <Project>{8A116F61-574D-4093-ACF8-A8AD08901BC0}</Project>
+      <Name>111_MinimumDepthOfBinaryTree</Name>
+    </ProjectReference>
     <ProjectReference Include="..\13_RomanToInteger\13_RomanToInteger.csproj">
       <Project>{8479BFF8-8D78-4098-B89F-D58275C77698}</Project>
       <Name>13_RomanToInteger</Name>

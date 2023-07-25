@@ -1,0 +1,9 @@
+D:\GITHUB\c_sharp-leetcode\111_MinimumDepthOfBinaryTree\obj\Debug\111_MinimumDepthOfBinaryTree.csproj.AssemblyReference.cache
+D:\GITHUB\c_sharp-leetcode\111_MinimumDepthOfBinaryTree\obj\Debug\111_MinimumDepthOfBinaryTree.csproj.CoreCompileInputs.cache
+D:\GITHUB\c_sharp-leetcode\111_MinimumDepthOfBinaryTree\bin\Debug\111_MinimumDepthOfBinaryTree.dll
+D:\GITHUB\c_sharp-leetcode\111_MinimumDepthOfBinaryTree\bin\Debug\111_MinimumDepthOfBinaryTree.pdb
+D:\GITHUB\c_sharp-leetcode\111_MinimumDepthOfBinaryTree\bin\Debug\0_Xtra.dll
+D:\GITHUB\c_sharp-leetcode\111_MinimumDepthOfBinaryTree\bin\Debug\0_Xtra.pdb
+D:\GITHUB\c_sharp-leetcode\111_MinimumDepthOfBinaryTree\obj\Debug\111_MinimumDepthOfBinaryTree.csproj.CopyComplete
+D:\GITHUB\c_sharp-leetcode\111_MinimumDepthOfBinaryTree\obj\Debug\111_MinimumDepthOfBinaryTree.dll
+D:\GITHUB\c_sharp-leetcode\111_MinimumDepthOfBinaryTree\obj\Debug\111_MinimumDepthOfBinaryTree.pdb
